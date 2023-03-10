@@ -919,6 +919,7 @@ body {
   }
   .companies__column-inner{
     padding:  0 0;
+    margin-left: -13px;
     width: 345px;
   }
 }
